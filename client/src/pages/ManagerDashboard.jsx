@@ -65,7 +65,7 @@ function ManagerDashboard() {
 
                         <div>
                             <p className="text-gray-500">Team Members</p>
-                            <h2 className="text-3xl font-bold">10</h2>
+                            <h2 className="text-3xl font-bold">20</h2>
                         </div>
 
                         <span className="text-3xl">👥</span>
@@ -77,7 +77,7 @@ function ManagerDashboard() {
 
                         <div>
                             <p className="text-gray-500">Active Projects</p>
-                            <h2 className="text-3xl font-bold">8</h2>
+                            <h2 className="text-3xl font-bold">11</h2>
                         </div>
 
                         <span className="text-3xl">📊</span>
@@ -89,7 +89,7 @@ function ManagerDashboard() {
 
                         <div>
                             <p className="text-gray-500">Pending Approvals</p>
-                            <h2 className="text-3xl font-bold">4</h2>
+                            <h2 className="text-3xl font-bold">7</h2>
                         </div>
 
                         <span className="text-3xl">⏳</span>
